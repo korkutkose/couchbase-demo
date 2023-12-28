@@ -1,0 +1,6 @@
+couchnase:
+  bootstrap-hosts: localhost
+  bucket:
+    user: admin
+    password: admin
+    name: my-bucket
