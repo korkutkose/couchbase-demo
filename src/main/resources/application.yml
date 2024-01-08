@@ -1,4 +1,4 @@
-couchnase:
+couchbase:
   bootstrap-hosts: localhost
   bucket:
     user: admin

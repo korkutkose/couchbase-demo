@@ -23,7 +23,7 @@ import java.util.Arrays;
 @Slf4j
 @Configuration
 @EnableCouchbaseRepositories(basePackages = "com.korkutkose.couchbasedemo.persistence")
-@EnableCouchbaseAuditing
+//@EnableCouchbaseAuditing
 public class CouchbaseConfig extends AbstractCouchbaseConfiguration {
 
     public static final String DATE_TIME_FORMAT = "yyyy-MM-dd'T'HH:mm:ss";
